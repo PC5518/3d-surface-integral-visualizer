@@ -9,6 +9,8 @@ This tool illustrates how a vector field like **F(x, y, z) = ⟨x, y, 1⟩** flo
 ---
 
 ## 🎥 Preview
+<img width="1371" height="872" alt="image" src="https://github.com/user-attachments/assets/029a3774-5d72-426f-ad5f-3981889fec31" />
+
 
 ![Surface Integral Visualization](./08913d2e-cb02-4663-80ee-7592a9dde032.png)
 
