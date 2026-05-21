@@ -4,7 +4,7 @@ A simple yet powerful Python project that **visualizes the concept of a surface 
 
 This tool illustrates how a vector field like **F(x, y, z) = ⟨x, y, 1⟩** flows through a flat surface in 3D space and helps you understand **flux**, **dot product**, and **surface normal** with clarity.
 
-> 🎯 Designed with learners, Olympiad aspirants, and curious minds in mind!
+> 🎯 Designed with the need of getting the concept right from electrodynamics vector calculus!
 
 ---
 
